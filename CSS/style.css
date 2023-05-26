@@ -1,0 +1,27 @@
+.container {
+    text-align: center;
+    margin: auto;
+    color: aqua;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 70%;
+}
+body {
+    background-color: black;
+}
+h1 {
+    color: aqua;
+    margin: 20px;
+
+}
+.player {
+    text-align: center;
+    display: inline-block;
+}
+.footer {
+    text-align: center;
+    color: aqua;
+    margin-top: 50px;
+}
+.img {
+    width: 90%;
+}
